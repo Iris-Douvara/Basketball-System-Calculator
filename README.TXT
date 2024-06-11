@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 This was a school project in Java assigned to me at my last term using
 BlueJ. I will be posting this in case it happens to help someone. The
-project itself is in Greek, but feel free to make an changes or have it
+project itself is in Greek, but feel free to make any changes or have it
 translated. 
 
 The first field is for the number of players ACTIVE and the
